@@ -15,9 +15,7 @@ AngularEats, a delightful Angular web application
   - 📖 **Recipe List**
   - 🍲 **Recipe Item**
   - 🔍 **Recipe Detail:** Dive deep into the details of your favorite recipes.
-
-## Features
-- 🌐 **Seamless Navigation:** Effortlessly navigate through AngularEats' user-friendly interface.
+  
 
 ## Technologies
 - Angular 🅰️
