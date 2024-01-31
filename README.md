@@ -1,27 +1,40 @@
 # AngularEats
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.11.
+## Overview
+AngularEats, a delightful Angular web application
 
-## Development server
+## Project Structure
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- 🌐 **Root:** The epicenter of AngularEats, orchestrating the entire recipe experience.
+- 🔗 **Header:** The application's header component.
+- 🛒 **Shopping List:** The application Shopping List component.
+  - 📜 **Shopping List:** A feast for your eyes - a view displaying shopping lists.
+  - ✏️ **Shopping List Edit:** Edit and customize your shopping lists.
+- 🥦 **Ingredients**
+- 📚 **Recipe Book**
+  - 📖 **Recipe List**
+  - 🍲 **Recipe Item**
+  - 🔍 **Recipe Detail:** Dive deep into the details of your favorite recipes.
 
-## Code scaffolding
+## Features
+- 🌐 **Seamless Navigation:** Effortlessly navigate through AngularEats' user-friendly interface.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Technologies
+- Angular 🅰️
+- Bootstrap 🥾
 
-## Build
+## How to Contribute
+1. 🍴 Fork the repository.
+2. 🚀 Create a branch for your contribution.
+3. 🛠️ Code, experiment, and innovate.
+4. 📤 Submit a pull request.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Contributors
+- Mert Sozen
+- (You?)
 
-## Running unit tests
+## License
+- This project is seasoned with the MIT License.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Bon Appétit with AngularEats! 🍜🎉
