@@ -1,0 +1,9 @@
+/* styles.css */
+
+.navbar-toggler-icon {
+  transition: transform 0.3s ease-in-out;
+}
+
+.navbar-toggler:not(.collapsed) .navbar-toggler-icon {
+  transform: rotate(90deg);
+}
